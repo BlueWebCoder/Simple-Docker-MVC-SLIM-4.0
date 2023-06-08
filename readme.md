@@ -1,4 +1,4 @@
-Simple-Docker-MVC-SLIM-4.0
+# Simple-Docker-MVC-SLIM-4.0
 MVP from SLIM 4.0, a simple PHP framework, powered by Docker deploy environment
 
 Ce projet est une version minimal d'un projet sous la forme du design pattern MVC à l'aide d'un petit framework appelé SLIM Il contient les fichier minimum à l'utilisation d'un MVC dont un fichier de configuration de base de donnée et propulse un formulaire de login pour l'exemple Ce projet utilise Docker Compose pour faciliter le déploiement et la gestion des conteneurs Docker.
