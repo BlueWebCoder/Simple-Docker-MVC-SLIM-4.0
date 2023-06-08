@@ -23,8 +23,8 @@ Cela va construire les images Docker et démarrer les conteneurs en arrière-pla
 ## Utilisation
 Une fois les conteneurs en cours d'exécution, vous pouvez accéder à l'application à l'adresse suivante :
 
-Application Web : http://localhost:8090
-PhpMyAdmin : http://localhost:8899
+- Application Web : http://localhost:8090
+- PhpMyAdmin : http://localhost:8899
 
 ## Arrêt
 Pour arrêter les conteneurs Docker, exécutez la commande suivante : $ docker-compose down
