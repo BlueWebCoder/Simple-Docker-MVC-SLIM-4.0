@@ -15,8 +15,8 @@ Avant de lancer l'application, vous devez configurer votre accès base de donné
 ## Installation
 1. Clonez ce dépôt Git sur votre machine :
 $ git clone https://github.com/BlueWebCoder/Simple-Docker-MVC-SLIM-4.0
-2. Accédez au répertoire du projet : $ cd Slim-4_docker_MVP
-4. Lancez les conteneurs Docker à l'aide de Docker Compose : $ docker-compose up -d
+2. Accédez au répertoire du projet : $ cd Simple-Docker-MVC-SLIM-4.0
+4. Lancez les conteneurs Docker à l'aide de Docker Compose : $ docker-compose up
 Cela va construire les images Docker et démarrer les conteneurs en arrière-plan.
 
 ## Utilisation
