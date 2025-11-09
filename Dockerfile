@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
 COPY --from=composer/composer:latest-bin /composer /usr/bin/composer
 
 # Copiez le fichier .htaccess vers le répertoire /var/www/html
-COPY .htaccess /var/www/html/
+# COPY .htaccess /var/www/html/
 
 # Répertoire de travail
 WORKDIR /var/www/html
